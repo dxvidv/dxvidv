@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dxvidv
+- 👀 I’m interested in Web Developement and FiveM Developement
+- 🌱 I’m currently learning HTML CSS JS LUA
+- 📫 How to reach me DC: dxvid#1291
